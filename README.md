@@ -6,7 +6,7 @@ This project builds a product recommendation system using several supervised lea
 
 We use an e-commerce dataset (`merrec.csv`) to predict whether a user will "favorite" a product based on session and product features, then generate Top-N personalized recommendations.
 
-## 📌 Dataset
+##  Dataset
  File: `merrec.csv`
 - Type:  e-commerce user-item interactions
 - Key Columns:
